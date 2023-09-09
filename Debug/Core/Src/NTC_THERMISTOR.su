@@ -1,0 +1,2 @@
+../Core/Src/NTC_THERMISTOR.c:9:6:NTC_THERMISTOR_Initialize	16	static
+../Core/Src/NTC_THERMISTOR.c:19:6:NTC_THERMISTOR_ReadTemperature	24	static

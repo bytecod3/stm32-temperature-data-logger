@@ -1,0 +1,2 @@
+../Core/Src/NTC_THERMISTOR.c:9:6:NTC_THERMISTOR_Initialize	1
+../Core/Src/NTC_THERMISTOR.c:19:6:NTC_THERMISTOR_ReadTemperature	1
